@@ -39,6 +39,7 @@ PyPDF2	Extract text from PDFs
 LangChain	Modular agent orchestration
 
 📁 Project Structure
+
 policy-explainer-agent/
 ├── app/
 │   ├── main.py               # FastAPI backend entrypoint
